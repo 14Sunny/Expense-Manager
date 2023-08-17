@@ -9,7 +9,7 @@ Multiple Categories: User can organize expenses into customizable categories.<br
 
 # Technology Used
 Language: Java, XML
-User Interface : Bottom Sheet Fragment, MVVM Architecture
+User Interface : Bottom Sheet Fragment, MVVM Architecture<br>
 Database : Realm Database
 
 #ScreenShots
